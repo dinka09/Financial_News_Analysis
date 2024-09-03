@@ -36,3 +36,10 @@ pip freeze > requirements.txt
 ```
 ## 3. Initial Exploratory Data Analysis (EDA)
 **Publisher Activity:** Count the number of articles per publisher.
+**Publisher Activity:** Count the number of articles per publisher.
+![Publication Trends Over Time](https://github.com/dinka09/Financial_News_Analysis/blob/main/images/Image1.pnj.png)
+
+**Sentiment Analysis:**
+![Sentiment Distribution](https://github.com/dinka09/Financial_News_Analysis/blob/main/images/sentiment.png)
+**Topic Modeling:**
+![Word Cloud of Headlines](https://github.com/dinka09/Financial_News_Analysis/blob/main/images/wordcload.png)

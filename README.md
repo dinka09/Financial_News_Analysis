@@ -1,6 +1,6 @@
 # financial-news-analysis
 ## Overview
-This project is focused on setting up the development environment, establishing version control with Git and GitHub, and conducting an initial Exploratory Data Analysis (EDA) on the financial news dataset. This task serves as the foundation for subsequent analysis and model development.
+This project involves setting up the development environment, configuring version control with Git and GitHub, and performing an initial Exploratory Data Analysis (EDA) on a dataset of financial news. These steps will lay the groundwork for further analysis and model development.
 # Getting Started
 ## 1. Repository and Branch Setup
 1. **Create a GitHub Repository:**
